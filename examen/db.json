@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "name": "carlitos",
+      "email": "carlitos@carl.car"
+    },
+    {
+      "id": "2",
+      "name": "marta",
+      "email": "ñaña@ayuda.com"
+    },
+    {
+      "id": "3",
+      "name": "julian",
+      "email": "caca@mama.com"
+    }
+  ]
+}
